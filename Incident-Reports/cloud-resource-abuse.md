@@ -10,6 +10,7 @@ Anomalous Azure resource provisioning activity was detected, indicating potentia
 - Severity: Medium
 - Detection Source: Microsoft Sentinel
 - Affected Platform: Microsoft Azure
+- Date Identified: Simulated Lab Scenario
 
 ---
 
