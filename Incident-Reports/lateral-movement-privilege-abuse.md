@@ -10,6 +10,8 @@ Suspicious lateral movement activity was detected involving multiple systems, fo
 - Severity: High
 - Detection Sources: Splunk SIEM
 - Affected Environment: On-Prem Windows Systems
+- Date Identified: Simulated Lab Scenario
+
 
 ---
 
